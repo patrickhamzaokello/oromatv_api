@@ -1,8 +1,11 @@
-from fastapi import FastAPI
+from fastapi import FastAPI,Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Dict, Any, List
 import os
+from fastapi.responses import HTMLResponse
+from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI(
     title="Oroma TV API",
@@ -11,6 +14,12 @@ app = FastAPI(
     docs_url="/api/docs" if os.getenv("ENVIRONMENT") == "development" else None,
     redoc_url="/api/redoc" if os.getenv("ENVIRONMENT") == "development" else None
 )
+# Mount static files
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+# Setup templates
+templates = Jinja2Templates(directory="templates")
+
 
 # Enable CORS
 app.add_middleware(
@@ -118,3 +127,11 @@ async def get_radio_schedule():
 @app.get("/health")
 async def health_check():
     return {"status": "healthy"}
+
+
+@app.get("/privacy-policy", response_class=HTMLResponse)
+async def privacy_policy(request: Request):
+    return templates.TemplateResponse(
+        "privacy_policy.html",
+        {"request": request}
+    )
