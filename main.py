@@ -40,7 +40,7 @@ app_data = {
             "name": "TV Oroma",
             "description": "Music, News, and Entertainment in Luo",
             "location": "Uganda",
-            "streamUrl": "https://oromatvserver.kakebeshop.com/LiveApp/streams/12345.m3u8",
+            "streamUrl": "https://mediaserver.oromatv.com/LiveApp/streams/12345.m3u8",
             "share": {
                 "message": "Check out this amazing stream on Oroma TV!",
                 "url": "https://oromatv.com/live",
