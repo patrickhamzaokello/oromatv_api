@@ -1,0 +1,36 @@
+{
+  "app": {
+    "name": "Oroma TV & QFM Radio",
+    "greetings": {
+      "morning": "Ico aber 👀",
+      "afternoon": "Itye ningo 😊",
+      "evening": "Irio aber 😁"
+    }
+  },
+  "streams": {
+    "tv": {
+      "name": "TV Oroma",
+      "description": "Music, News, and Entertainment in Luo",
+      "location": "Uganda",
+      "streamUrl": "https://mediaserver.oromatv.com/LiveApp/streams/12345.m3u8",
+      "share": {
+        "message": "Check out this amazing stream on  TV Oroma",
+        "url": "https://oromatv.com",
+        "title": "Oroma TV Live Stream"
+      },
+      "about": {
+        "title": "Tv Oroma",
+        "description": "Northern Uganda's Versetail Tv Station",
+        "fullDescription": "Music, News, and Entertainment in Luo. Northern Uganda's Funkiest Radio Station"
+      }
+    },
+    "radio": {
+      "name": "QFM Radio",
+      "frequency": "94.3",
+      "location": "Lira, Uganda",
+      "description": "Northern Uganda's Funkiest Radio Station",
+      "streamUrl": "https://hoth.alonhosting.com:3975/stream",
+      "artworkUrl": "https://assets.mwonya.com/images/artwork/qfm_radio.png"
+    }
+  }
+}
