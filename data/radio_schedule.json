@@ -1,26 +1,1807 @@
 {
-  "days": [
-    {
-      "id": "1",
-      "day": "Monday",
-      "programs": [
-        { "id": "p1", "startTime": "06:00", "endTime": "06:30", "title": "Morning News", "host": "Sarah Johnson", "description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" },
-        { "id": "p2", "startTime": "06:30", "endTime": "07:00", "title": "Wake Up Mix", "host": "DJ Blake","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" },
-        { "id": "p3", "startTime": "07:00", "endTime": "07:30", "title": "Traffic Updates", "host": "Mike Peterson","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" },
-        { "id": "p4", "startTime": "07:30", "endTime": "08:00", "title": "Wake Up Mix", "host": "DJ Blake","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" },
-        { "id": "p5", "startTime": "08:00", "endTime": "08:30", "title": "Morning Talk", "host": "Rachel & Tom","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" },
-        { "id": "p6", "startTime": "08:30", "endTime": "09:00", "title": "Morning Talk", "host": "Rachel & Tom","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" }
-      ]
-    },
-    {
-      "id": "2",
-      "day": "Tuesday",
-      "programs": [
-        { "id": "p49", "startTime": "06:00", "endTime": "06:30", "title": "Morning News", "host": "Sarah Johnson","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" },
-        { "id": "p51", "startTime": "00:00", "endTime": "00:50", "title": "Jame Up Mix", "host": "DJ Johns","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" },
-        { "id": "p50", "startTime": "06:30", "endTime": "07:00", "title": "Wake Up Mix", "host": "DJ Blake","description": "QFM Radio Lira", "imageUrl":"https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png" }
-      ]
-    }
-  ]
-
+    "days": [
+        {
+            "id": "5",
+            "day": "Friday",
+            "programs": [
+                {
+                    "id": "p1",
+                    "startTime": "03:00",
+                    "endTime": "03:30",
+                    "title": "Introduction, Prayer and rollcall",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Opening the station with soft gospel music and prayer from any willing listener.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p2",
+                    "startTime": "03:30",
+                    "endTime": "04:00",
+                    "title": "Local Update",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listeners call in and give feedback of what happened in the night in their local arears",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p3",
+                    "startTime": "04:00",
+                    "endTime": "04:30",
+                    "title": "Testimonies",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener calls to testify the good that the lord has done to him or her",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p4",
+                    "startTime": "04:30",
+                    "endTime": "05:00",
+                    "title": "PRAYER REQUEST",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener cannel prayer request through the presenter for the preacher ‘s action",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p5",
+                    "startTime": "05:00",
+                    "endTime": "06:00",
+                    "title": "Preaching ",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p6",
+                    "startTime": "06:00",
+                    "endTime": "07:00",
+                    "title": "Arise and shine",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Presenter interacts with the listener, greetings, dedication , music and call in",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p7",
+                    "startTime": "07:00",
+                    "endTime": "07:30",
+                    "title": "Morning News",
+                    "host": "Opio Bobson",
+                    "description": "Latest events",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p8",
+                    "startTime": "07:30",
+                    "endTime": "08:00",
+                    "title": "Morning Vex",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Presenters and Callers Share what disgusts them",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p9",
+                    "startTime": "08:00",
+                    "endTime": "09:00",
+                    "title": "morning Talkback ",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Discussions of issues at hand",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p10",
+                    "startTime": "09:00",
+                    "endTime": "10:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p11",
+                    "startTime": "10:00",
+                    "endTime": "10:15",
+                    "title": "TOP OF THE HOUR ENG NEWS",
+                    "host": "Nancy Atim",
+                    "description": "1st English news bullet inn with both local  national and international content.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p12",
+                    "startTime": "10:15",
+                    "endTime": "11:00",
+                    "title": "QUOTE OF THE DAY",
+                    "host": "Okello Innocent",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p13",
+                    "startTime": "11:00",
+                    "endTime": "11:30",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p14",
+                    "startTime": "11:30",
+                    "endTime": "12:00",
+                    "title": "Strange But true Facts",
+                    "host": "Okello Innocent",
+                    "description": "Present shares the most interesting strange facts ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p15",
+                    "startTime": "12:00",
+                    "endTime": "12:15",
+                    "title": "Boxing Ring",
+                    "host": "Okello Innocent",
+                    "description": "Callers are given two songs to choose which one plays next",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p16",
+                    "startTime": "12:15",
+                    "endTime": "12:30",
+                    "title": "Brainteaser",
+                    "host": "Okello Innocent",
+                    "description": "Presenter asks a tricky question and listeners give the Answers",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p17",
+                    "startTime": "12:30",
+                    "endTime": "12:45",
+                    "title": "Triple Play",
+                    "host": "Okello Innocent",
+                    "description": "A Lister Calls in and requests for 3 Songs.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p18",
+                    "startTime": "12:45",
+                    "endTime": "13:00",
+                    "title": "Job Slots",
+                    "host": "Okello Innocent",
+                    "description": "Presenter runs mentions for Job Oprotunities. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p19",
+                    "startTime": "13:00",
+                    "endTime": "13:15",
+                    "title": "News In Luo",
+                    "host": "Oyugi Frank ",
+                    "description": "News in the local language ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p20",
+                    "startTime": "13:15",
+                    "endTime": "14:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p21",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "Sports Bench",
+                    "host": "Lady J and Brian",
+                    "description": "Lates information on all sports news.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p22",
+                    "startTime": "16:00",
+                    "endTime": "16:15",
+                    "title": "Evening Flight (Rolecall)",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Checkups on All listeners  ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p23",
+                    "startTime": "16:15",
+                    "endTime": "16:30",
+                    "title": "Quote of the hour",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p24",
+                    "startTime": "16:30",
+                    "endTime": "16:45",
+                    "title": "Cuk Atedero",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Liteners call in and sale or buy live on air",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p25",
+                    "startTime": "16:45",
+                    "endTime": "17:00",
+                    "title": "Weather Update",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Weather is forcust discused at lenth",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p26",
+                    "startTime": "17:00",
+                    "endTime": "18:00",
+                    "title": "COMMUNITY DIALOGUE",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Engaging members of the community  on some topic issues affecting them.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p27",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Hot 6 at 6",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Afrobeat Music is played with 6 selected",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p28",
+                    "startTime": "19:00",
+                    "endTime": "19:30",
+                    "title": "Perspectives Documentary",
+                    "host": "Ogwal Jasper",
+                    "description": "Slot allocated for feature stories , pre-recorded programs  and documentaries",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p29",
+                    "startTime": "19:30",
+                    "endTime": "20:00",
+                    "title": "HOT 7 @ 7 LOCAL HITS",
+                    "host": "Ogwal Jasper",
+                    "description": "Count down of hot local collection with brief profile of their artists.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p30",
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "title": "Talkshow",
+                    "host": "Ogwal Jasper",
+                    "description": "To paid up by NGOs, CBOs,  Local & Central Governments and any willing partner",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p31",
+                    "startTime": "21:00",
+                    "endTime": "21:30",
+                    "title": "9PM Prime Time News",
+                    "host": "Doreen Achipa And Frank Oyugi",
+                    "description": "4th & the biggest Broadcast of local, national, international, business, market information.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p32",
+                    "startTime": "21:30",
+                    "endTime": "22:00",
+                    "title": "Announcements",
+                    "host": "Edmond Ongwen",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p33",
+                    "startTime": "22:00",
+                    "endTime": "00:00",
+                    "title": "Lek Tuku",
+                    "host": "Moto Ronald",
+                    "description": "The latest on local Sports ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p34",
+                    "startTime": "00:00",
+                    "endTime": "03:00",
+                    "title": "Hakuna Kulala Show",
+                    "host": "Oc Ojok",
+                    "description": "Playing Local music and keeping the night alive with the latest updates",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "day": "Monday",
+            "programs": [
+                {
+                    "id": "p1",
+                    "startTime": "03:00",
+                    "endTime": "03:30",
+                    "title": "Introduction, Prayer and rollcall",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Opening the station with soft gospel music and prayer from any willing listener.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p2",
+                    "startTime": "03:30",
+                    "endTime": "04:00",
+                    "title": "Local Update",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listeners call in and give feedback of what happened in the night in their local arears",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p3",
+                    "startTime": "04:00",
+                    "endTime": "04:30",
+                    "title": "Testimonies",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener calls to testify the good that the lord has done to him or her",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p4",
+                    "startTime": "04:30",
+                    "endTime": "05:00",
+                    "title": "PRAYER REQUEST",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener cannel prayer request through the presenter for the preacher ‘s action",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p5",
+                    "startTime": "05:00",
+                    "endTime": "06:00",
+                    "title": "Preaching ",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p6",
+                    "startTime": "06:00",
+                    "endTime": "07:00",
+                    "title": "Arise and shine",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Presenter interacts with the listener, greetings, dedication , music and call in",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p7",
+                    "startTime": "07:00",
+                    "endTime": "07:30",
+                    "title": "Morning News",
+                    "host": "Opio Bobson",
+                    "description": "Latest events",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p8",
+                    "startTime": "07:30",
+                    "endTime": "08:00",
+                    "title": "Morning Vex",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Presenters and Callers Share what disgusts them",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p9",
+                    "startTime": "08:00",
+                    "endTime": "09:00",
+                    "title": "morning Talkback ",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Discussions of issues at hand",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p10",
+                    "startTime": "09:00",
+                    "endTime": "10:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p11",
+                    "startTime": "10:00",
+                    "endTime": "10:15",
+                    "title": "TOP OF THE HOUR ENG NEWS",
+                    "host": "Nancy Atim",
+                    "description": "1st English news bullet inn with both local  national and international content.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p12",
+                    "startTime": "10:15",
+                    "endTime": "11:00",
+                    "title": "QUOTE OF THE DAY",
+                    "host": "Okello Innocent",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p13",
+                    "startTime": "11:00",
+                    "endTime": "11:30",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p14",
+                    "startTime": "11:30",
+                    "endTime": "12:00",
+                    "title": "Strange But true Facts",
+                    "host": "Okello Innocent",
+                    "description": "Present shares the most interesting strange facts ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p15",
+                    "startTime": "12:00",
+                    "endTime": "12:15",
+                    "title": "Boxing Ring",
+                    "host": "Okello Innocent",
+                    "description": "Callers are given two songs to choose which one plays next",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p16",
+                    "startTime": "12:15",
+                    "endTime": "12:30",
+                    "title": "Brainteaser",
+                    "host": "Okello Innocent",
+                    "description": "Presenter asks a tricky question and listeners give the Answers",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p17",
+                    "startTime": "12:30",
+                    "endTime": "12:45",
+                    "title": "Triple Play",
+                    "host": "Okello Innocent",
+                    "description": "A Lister Calls in and requests for 3 Songs.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p18",
+                    "startTime": "12:45",
+                    "endTime": "13:00",
+                    "title": "Job Slots",
+                    "host": "Okello Innocent",
+                    "description": "Presenter runs mentions for Job Oprotunities. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p19",
+                    "startTime": "13:00",
+                    "endTime": "13:15",
+                    "title": "News In Luo",
+                    "host": "Oyugi Frank ",
+                    "description": "News in the local language ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p20",
+                    "startTime": "13:15",
+                    "endTime": "14:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p21",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "Sports Bench",
+                    "host": "Lady J and Brian",
+                    "description": "Lates information on all sports news.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p22",
+                    "startTime": "16:00",
+                    "endTime": "16:15",
+                    "title": "Evening Flight (Rolecall)",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Checkups on All listeners  ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p23",
+                    "startTime": "16:15",
+                    "endTime": "16:30",
+                    "title": "Quote of the hour",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p24",
+                    "startTime": "16:30",
+                    "endTime": "16:45",
+                    "title": "Cuk Atedero",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Liteners call in and sale or buy live on air",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p25",
+                    "startTime": "16:45",
+                    "endTime": "17:00",
+                    "title": "Weather Update",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Weather is forcust discused at lenth",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p26",
+                    "startTime": "17:00",
+                    "endTime": "18:00",
+                    "title": "COMMUNITY DIALOGUE",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Engaging members of the community  on some topic issues affecting them.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p27",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Hot 6 at 6",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Afrobeat Music is played with 6 selected",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p28",
+                    "startTime": "19:00",
+                    "endTime": "19:30",
+                    "title": "Perspectives Documentary",
+                    "host": "Ogwal Jasper",
+                    "description": "Slot allocated for feature stories , pre-recorded programs  and documentaries",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p29",
+                    "startTime": "19:30",
+                    "endTime": "20:00",
+                    "title": "HOT 7 @ 7 LOCAL HITS",
+                    "host": "Ogwal Jasper",
+                    "description": "Count down of hot local collection with brief profile of their artists.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p30",
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "title": "Talkshow",
+                    "host": "Ogwal Jasper",
+                    "description": "To paid up by NGOs, CBOs,  Local & Central Governments and any willing partner",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p31",
+                    "startTime": "21:00",
+                    "endTime": "21:30",
+                    "title": "9PM Prime Time News",
+                    "host": "Doreen Achipa And Frank Oyugi",
+                    "description": "4th & the biggest Broadcast of local, national, international, business, market information.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p32",
+                    "startTime": "21:30",
+                    "endTime": "22:00",
+                    "title": "Announcements",
+                    "host": "Edmond Ongwen",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p33",
+                    "startTime": "22:00",
+                    "endTime": "00:00",
+                    "title": "Lek Tuku",
+                    "host": "Moto Ronald",
+                    "description": "The latest on local Sports ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p34",
+                    "startTime": "00:00",
+                    "endTime": "03:00",
+                    "title": "Hakuna Kulala Show",
+                    "host": "Oc Ojok",
+                    "description": "Playing Local music and keeping the night alive with the latest updates",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "day": "Saturday",
+            "programs": [
+                {
+                    "id": "p1",
+                    "startTime": "03:00",
+                    "endTime": "05:00",
+                    "title": "Morning Glory",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Play worship songs both international and local with a spiritual touch",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p2",
+                    "startTime": "05:00",
+                    "endTime": "07:00",
+                    "title": "Preaching",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p3",
+                    "startTime": "07:00",
+                    "endTime": "08:00",
+                    "title": "Announcements",
+                    "host": "Moses Elasu",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p4",
+                    "startTime": "08:00",
+                    "endTime": "10:00",
+                    "title": "On Air Searvice",
+                    "host": "Anglican Church",
+                    "description": "Take time And Run a full church service on air",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p5",
+                    "startTime": "10:00",
+                    "endTime": "12:00",
+                    "title": "The Sports Parliament ",
+                    "host": "Opio Brazillian and Lady J",
+                    "description": "Panels of sports analysts come to discuss sports related topics as they interact with listeners",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p6",
+                    "startTime": "12:00",
+                    "endTime": "13:00",
+                    "title": "Chat room",
+                    "host": "Olot JK",
+                    "description": "We tackle issues affecting the youth in our society and giving the platform to speak out",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p7",
+                    "startTime": "13:00",
+                    "endTime": "14:00",
+                    "title": "News and announcements",
+                    "host": "Moses Okumu",
+                    "description": "Latest Information and reading of client announcements",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p8",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "On the farm Show",
+                    "host": "Ojok Francis",
+                    "description": "Technical persons with vast knowledge in agriculture are sourced to discuss farm issues",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p9",
+                    "startTime": "16:00",
+                    "endTime": "18:00",
+                    "title": "Top 20 Count Down",
+                    "host": "Okello Walter",
+                    "description": "Latest Songs are played with Listener preferances",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p10",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Announcements",
+                    "host": "Moses Elasu",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p11",
+                    "startTime": "19:00",
+                    "endTime": "20:00",
+                    "title": "Preaching",
+                    "host": "Odic Oscar",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p12",
+                    "startTime": "20:00",
+                    "endTime": "22:00",
+                    "title": "Cross Fire",
+                    "host": "Frank Oyugi",
+                    "description": "Entirely apolitical talk show that targets national political figures and mps, discussing national issues of concern",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p13",
+                    "startTime": "22:00",
+                    "endTime": "03:00",
+                    "title": "Horse Power Show",
+                    "host": "Ogwal Jasper",
+                    "description": "Entertainment and fun with the latest hits",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "day": "Sunday",
+            "programs": [
+                {
+                    "id": "p1",
+                    "startTime": "03:00",
+                    "endTime": "05:00",
+                    "title": "Morning Glory Extra",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Play worship songs both international and local with a spiritual touch",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p2",
+                    "startTime": "05:00",
+                    "endTime": "07:00",
+                    "title": "Preaching",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p3",
+                    "startTime": "07:00",
+                    "endTime": "08:00",
+                    "title": "Announcements",
+                    "host": "Moses Elasu",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p4",
+                    "startTime": "08:00",
+                    "endTime": "10:00",
+                    "title": "Gosple Explosion ",
+                    "host": "Ambrose Angura",
+                    "description": "Field visit of a church and the service is relayed live on air.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p5",
+                    "startTime": "10:00",
+                    "endTime": "12:00",
+                    "title": "Wio Tem",
+                    "host": "Tabliq",
+                    "description": "Cultural and tradional music is played and live recordings of filed visits and debates are played ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p6",
+                    "startTime": "12:00",
+                    "endTime": "13:00",
+                    "title": "Chat room",
+                    "host": "Olot JK",
+                    "description": "We tackle issues affecting the youth in our society and giving the platform to speak out",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p7",
+                    "startTime": "13:00",
+                    "endTime": "14:00",
+                    "title": "News Round Up",
+                    "host": "All News reporters",
+                    "description": "News reporters Discus what made the week's top stories.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p8",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "Northern Connection",
+                    "host": "Odic Oscar",
+                    "description": "New local music is played from artists within northern uganda. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p9",
+                    "startTime": "16:00",
+                    "endTime": "18:00",
+                    "title": "Drama",
+                    "host": "Ogwal Jasper",
+                    "description": "Local Educative prerecorded dram is played",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p10",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Announcements",
+                    "host": "Moses Elasu",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p11",
+                    "startTime": "19:00",
+                    "endTime": "20:00",
+                    "title": "Preaching",
+                    "host": "Odic Oscar",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p12",
+                    "startTime": "20:00",
+                    "endTime": "03:00",
+                    "title": "Abuda Show",
+                    "host": "Tabliq",
+                    "description": "Playing of Tradional local music and hosting elderly to teach people of the past tradion",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "day": "Thursday",
+            "programs": [
+                {
+                    "id": "p1",
+                    "startTime": "03:00",
+                    "endTime": "03:30",
+                    "title": "Introduction, Prayer and rollcall",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Opening the station with soft gospel music and prayer from any willing listener.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p2",
+                    "startTime": "03:30",
+                    "endTime": "04:00",
+                    "title": "Local Update",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listeners call in and give feedback of what happened in the night in their local arears",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p3",
+                    "startTime": "04:00",
+                    "endTime": "04:30",
+                    "title": "Testimonies",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener calls to testify the good that the lord has done to him or her",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p4",
+                    "startTime": "04:30",
+                    "endTime": "05:00",
+                    "title": "PRAYER REQUEST",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener cannel prayer request through the presenter for the preacher ‘s action",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p5",
+                    "startTime": "05:00",
+                    "endTime": "06:00",
+                    "title": "Preaching ",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p6",
+                    "startTime": "06:00",
+                    "endTime": "07:00",
+                    "title": "Arise and shine",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Presenter interacts with the listener, greetings, dedication , music and call in",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p7",
+                    "startTime": "07:00",
+                    "endTime": "07:30",
+                    "title": "Morning News",
+                    "host": "Opio Bobson",
+                    "description": "Latest events",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p8",
+                    "startTime": "07:30",
+                    "endTime": "08:00",
+                    "title": "Morning Vex",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Presenters and Callers Share what disgusts them",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p9",
+                    "startTime": "08:00",
+                    "endTime": "09:00",
+                    "title": "morning Talkback ",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Discussions of issues at hand",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p10",
+                    "startTime": "09:00",
+                    "endTime": "10:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p11",
+                    "startTime": "10:00",
+                    "endTime": "10:15",
+                    "title": "TOP OF THE HOUR ENG NEWS",
+                    "host": "Nancy Atim",
+                    "description": "1st English news bullet inn with both local  national and international content.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p12",
+                    "startTime": "10:15",
+                    "endTime": "11:00",
+                    "title": "QUOTE OF THE DAY",
+                    "host": "Okello Innocent",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p13",
+                    "startTime": "11:00",
+                    "endTime": "11:30",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p14",
+                    "startTime": "11:30",
+                    "endTime": "12:00",
+                    "title": "Strange But true Facts",
+                    "host": "Okello Innocent",
+                    "description": "Present shares the most interesting strange facts ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p15",
+                    "startTime": "12:00",
+                    "endTime": "12:15",
+                    "title": "Boxing Ring",
+                    "host": "Okello Innocent",
+                    "description": "Callers are given two songs to choose which one plays next",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p16",
+                    "startTime": "12:15",
+                    "endTime": "12:30",
+                    "title": "Brainteaser",
+                    "host": "Okello Innocent",
+                    "description": "Presenter asks a tricky question and listeners give the Answers",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p17",
+                    "startTime": "12:30",
+                    "endTime": "12:45",
+                    "title": "Triple Play",
+                    "host": "Okello Innocent",
+                    "description": "A Lister Calls in and requests for 3 Songs.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p18",
+                    "startTime": "12:45",
+                    "endTime": "13:00",
+                    "title": "Job Slots",
+                    "host": "Okello Innocent",
+                    "description": "Presenter runs mentions for Job Oprotunities. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p19",
+                    "startTime": "13:00",
+                    "endTime": "13:15",
+                    "title": "News In Luo",
+                    "host": "Oyugi Frank ",
+                    "description": "News in the local language ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p20",
+                    "startTime": "13:15",
+                    "endTime": "14:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p21",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "Sports Bench",
+                    "host": "Lady J and Brian",
+                    "description": "Lates information on all sports news.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p22",
+                    "startTime": "16:00",
+                    "endTime": "16:15",
+                    "title": "Evening Flight (Rolecall)",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Checkups on All listeners  ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p23",
+                    "startTime": "16:15",
+                    "endTime": "16:30",
+                    "title": "Quote of the hour",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p24",
+                    "startTime": "16:30",
+                    "endTime": "16:45",
+                    "title": "Cuk Atedero",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Liteners call in and sale or buy live on air",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p25",
+                    "startTime": "16:45",
+                    "endTime": "17:00",
+                    "title": "Weather Update",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Weather is forcust discused at lenth",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p26",
+                    "startTime": "17:00",
+                    "endTime": "18:00",
+                    "title": "COMMUNITY DIALOGUE",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Engaging members of the community  on some topic issues affecting them.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p27",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Hot 6 at 6",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Afrobeat Music is played with 6 selected",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p28",
+                    "startTime": "19:00",
+                    "endTime": "19:30",
+                    "title": "Perspectives Documentary",
+                    "host": "Ogwal Jasper",
+                    "description": "Slot allocated for feature stories , pre-recorded programs  and documentaries",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p29",
+                    "startTime": "19:30",
+                    "endTime": "20:00",
+                    "title": "HOT 7 @ 7 LOCAL HITS",
+                    "host": "Ogwal Jasper",
+                    "description": "Count down of hot local collection with brief profile of their artists.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p30",
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "title": "Talkshow",
+                    "host": "Ogwal Jasper",
+                    "description": "To paid up by NGOs, CBOs,  Local & Central Governments and any willing partner",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p31",
+                    "startTime": "21:00",
+                    "endTime": "21:30",
+                    "title": "9PM Prime Time News",
+                    "host": "Doreen Achipa And Frank Oyugi",
+                    "description": "4th & the biggest Broadcast of local, national, international, business, market information.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p32",
+                    "startTime": "21:30",
+                    "endTime": "22:00",
+                    "title": "Announcements",
+                    "host": "Edmond Ongwen",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p33",
+                    "startTime": "22:00",
+                    "endTime": "00:00",
+                    "title": "Lek Tuku",
+                    "host": "Moto Ronald",
+                    "description": "The latest on local Sports ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p34",
+                    "startTime": "00:00",
+                    "endTime": "03:00",
+                    "title": "Hakuna Kulala Show",
+                    "host": "Oc Ojok",
+                    "description": "Playing Local music and keeping the night alive with the latest updates",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "day": "Tuesday",
+            "programs": [
+                {
+                    "id": "p1",
+                    "startTime": "03:00",
+                    "endTime": "03:30",
+                    "title": "Introduction, Prayer and rollcall",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Opening the station with soft gospel music and prayer from any willing listener.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p2",
+                    "startTime": "03:30",
+                    "endTime": "04:00",
+                    "title": "Local Update",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listeners call in and give feedback of what happened in the night in their local arears",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p3",
+                    "startTime": "04:00",
+                    "endTime": "04:30",
+                    "title": "Testimonies",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener calls to testify the good that the lord has done to him or her",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p4",
+                    "startTime": "04:30",
+                    "endTime": "05:00",
+                    "title": "PRAYER REQUEST",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener cannel prayer request through the presenter for the preacher ‘s action",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p5",
+                    "startTime": "05:00",
+                    "endTime": "06:00",
+                    "title": "Preaching ",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p6",
+                    "startTime": "06:00",
+                    "endTime": "07:00",
+                    "title": "Arise and shine",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Presenter interacts with the listener, greetings, dedication , music and call in",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p7",
+                    "startTime": "07:00",
+                    "endTime": "07:30",
+                    "title": "Morning News",
+                    "host": "Opio Bobson",
+                    "description": "Latest events",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p8",
+                    "startTime": "07:30",
+                    "endTime": "08:00",
+                    "title": "Morning Vex",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Presenters and Callers Share what disgusts them",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p9",
+                    "startTime": "08:00",
+                    "endTime": "09:00",
+                    "title": "morning Talkback ",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Discussions of issues at hand",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p10",
+                    "startTime": "09:00",
+                    "endTime": "10:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p11",
+                    "startTime": "10:00",
+                    "endTime": "10:15",
+                    "title": "TOP OF THE HOUR ENG NEWS",
+                    "host": "Nancy Atim",
+                    "description": "1st English news bullet inn with both local  national and international content.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p12",
+                    "startTime": "10:15",
+                    "endTime": "11:00",
+                    "title": "QUOTE OF THE DAY",
+                    "host": "Okello Innocent",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p13",
+                    "startTime": "11:00",
+                    "endTime": "11:30",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p14",
+                    "startTime": "11:30",
+                    "endTime": "12:00",
+                    "title": "Strange But true Facts",
+                    "host": "Okello Innocent",
+                    "description": "Present shares the most interesting strange facts ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p15",
+                    "startTime": "12:00",
+                    "endTime": "12:15",
+                    "title": "Boxing Ring",
+                    "host": "Okello Innocent",
+                    "description": "Callers are given two songs to choose which one plays next",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p16",
+                    "startTime": "12:15",
+                    "endTime": "12:30",
+                    "title": "Brainteaser",
+                    "host": "Okello Innocent",
+                    "description": "Presenter asks a tricky question and listeners give the Answers",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p17",
+                    "startTime": "12:30",
+                    "endTime": "12:45",
+                    "title": "Triple Play",
+                    "host": "Okello Innocent",
+                    "description": "A Lister Calls in and requests for 3 Songs.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p18",
+                    "startTime": "12:45",
+                    "endTime": "13:00",
+                    "title": "Job Slots",
+                    "host": "Okello Innocent",
+                    "description": "Presenter runs mentions for Job Oprotunities. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p19",
+                    "startTime": "13:00",
+                    "endTime": "13:15",
+                    "title": "News In Luo",
+                    "host": "Oyugi Frank ",
+                    "description": "News in the local language ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p20",
+                    "startTime": "13:15",
+                    "endTime": "14:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p21",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "Sports Bench",
+                    "host": "Lady J and Brian",
+                    "description": "Lates information on all sports news.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p22",
+                    "startTime": "16:00",
+                    "endTime": "16:15",
+                    "title": "Evening Flight (Rolecall)",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Checkups on All listeners  ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p23",
+                    "startTime": "16:15",
+                    "endTime": "16:30",
+                    "title": "Quote of the hour",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p24",
+                    "startTime": "16:30",
+                    "endTime": "16:45",
+                    "title": "Cuk Atedero",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Liteners call in and sale or buy live on air",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p25",
+                    "startTime": "16:45",
+                    "endTime": "17:00",
+                    "title": "Weather Update",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Weather is forcust discused at lenth",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p26",
+                    "startTime": "17:00",
+                    "endTime": "18:00",
+                    "title": "COMMUNITY DIALOGUE",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Engaging members of the community  on some topic issues affecting them.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p27",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Hot 6 at 6",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Afrobeat Music is played with 6 selected",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p28",
+                    "startTime": "19:00",
+                    "endTime": "19:30",
+                    "title": "Perspectives Documentary",
+                    "host": "Ogwal Jasper",
+                    "description": "Slot allocated for feature stories , pre-recorded programs  and documentaries",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p29",
+                    "startTime": "19:30",
+                    "endTime": "20:00",
+                    "title": "HOT 7 @ 7 LOCAL HITS",
+                    "host": "Ogwal Jasper",
+                    "description": "Count down of hot local collection with brief profile of their artists.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p30",
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "title": "Talkshow",
+                    "host": "Ogwal Jasper",
+                    "description": "To paid up by NGOs, CBOs,  Local & Central Governments and any willing partner",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p31",
+                    "startTime": "21:00",
+                    "endTime": "21:30",
+                    "title": "9PM Prime Time News",
+                    "host": "Doreen Achipa And Frank Oyugi",
+                    "description": "4th & the biggest Broadcast of local, national, international, business, market information.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p32",
+                    "startTime": "21:30",
+                    "endTime": "22:00",
+                    "title": "Announcements",
+                    "host": "Edmond Ongwen",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p33",
+                    "startTime": "22:00",
+                    "endTime": "00:00",
+                    "title": "Lek Tuku",
+                    "host": "Moto Ronald",
+                    "description": "The latest on local Sports ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p34",
+                    "startTime": "00:00",
+                    "endTime": "03:00",
+                    "title": "Hakuna Kulala Show",
+                    "host": "Oc Ojok",
+                    "description": "Playing Local music and keeping the night alive with the latest updates",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "day": "Wednesday",
+            "programs": [
+                {
+                    "id": "p21",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "Sports Bench",
+                    "host": "Lady J and Brian",
+                    "description": "Lates information on all sports news.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p22",
+                    "startTime": "16:00",
+                    "endTime": "16:15",
+                    "title": "Evening Flight (Rolecall)",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Checkups on All listeners  ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p23",
+                    "startTime": "16:15",
+                    "endTime": "16:30",
+                    "title": "Quote of the hour",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p24",
+                    "startTime": "16:30",
+                    "endTime": "16:45",
+                    "title": "Cuk Atedero",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Liteners call in and sale or buy live on air",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p25",
+                    "startTime": "16:45",
+                    "endTime": "17:00",
+                    "title": "Weather Update",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Weather is forcust discused at lenth",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p26",
+                    "startTime": "17:00",
+                    "endTime": "18:00",
+                    "title": "COMMUNITY DIALOGUE",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Engaging members of the community  on some topic issues affecting them.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p27",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Hot 6 at 6",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Afrobeat Music is played with 6 selected",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p28",
+                    "startTime": "19:00",
+                    "endTime": "19:30",
+                    "title": "Perspectives Documentary",
+                    "host": "Ogwal Jasper",
+                    "description": "Slot allocated for feature stories , pre-recorded programs  and documentaries",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p29",
+                    "startTime": "19:30",
+                    "endTime": "20:00",
+                    "title": "HOT 7 @ 7 LOCAL HITS",
+                    "host": "Ogwal Jasper",
+                    "description": "Count down of hot local collection with brief profile of their artists.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p30",
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "title": "Talkshow",
+                    "host": "Ogwal Jasper",
+                    "description": "To paid up by NGOs, CBOs,  Local & Central Governments and any willing partner",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p31",
+                    "startTime": "21:00",
+                    "endTime": "21:30",
+                    "title": "9PM Prime Time News",
+                    "host": "Doreen Achipa And Frank Oyugi",
+                    "description": "4th & the biggest Broadcast of local, national, international, business, market information.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p32",
+                    "startTime": "21:30",
+                    "endTime": "22:00",
+                    "title": "Announcements",
+                    "host": "Edmond Ongwen",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p33",
+                    "startTime": "22:00",
+                    "endTime": "00:00",
+                    "title": "Lek Tuku",
+                    "host": "Moto Ronald",
+                    "description": "The latest on local Sports ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p34",
+                    "startTime": "00:00",
+                    "endTime": "03:00",
+                    "title": "Hakuna Kulala Show",
+                    "host": "Oc Ojok",
+                    "description": "Playing Local music and keeping the night alive with the latest updates",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "day": "Wednesday ",
+            "programs": [
+                {
+                    "id": "p1",
+                    "startTime": "03:00",
+                    "endTime": "03:30",
+                    "title": "Introduction, Prayer and rollcall",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Opening the station with soft gospel music and prayer from any willing listener.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p2",
+                    "startTime": "03:30",
+                    "endTime": "04:00",
+                    "title": "Local Update",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listeners call in and give feedback of what happened in the night in their local arears",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p3",
+                    "startTime": "04:00",
+                    "endTime": "04:30",
+                    "title": "Testimonies",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener calls to testify the good that the lord has done to him or her",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p4",
+                    "startTime": "04:30",
+                    "endTime": "05:00",
+                    "title": "PRAYER REQUEST",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Listener cannel prayer request through the presenter for the preacher ‘s action",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p5",
+                    "startTime": "05:00",
+                    "endTime": "06:00",
+                    "title": "Preaching ",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Pastors, Rev, and Evangelists from al the local Christian background take the platform",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p6",
+                    "startTime": "06:00",
+                    "endTime": "07:00",
+                    "title": "Arise and shine",
+                    "host": "Moses Okello Akokoro",
+                    "description": "Presenter interacts with the listener, greetings, dedication , music and call in",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p7",
+                    "startTime": "07:00",
+                    "endTime": "07:30",
+                    "title": "Morning News",
+                    "host": "Opio Bobson",
+                    "description": "Latest events",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p8",
+                    "startTime": "07:30",
+                    "endTime": "08:00",
+                    "title": "Morning Vex",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Presenters and Callers Share what disgusts them",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p9",
+                    "startTime": "08:00",
+                    "endTime": "09:00",
+                    "title": "morning Talkback ",
+                    "host": "Angura Ambrose and Opio Bobson",
+                    "description": "Discussions of issues at hand",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p10",
+                    "startTime": "09:00",
+                    "endTime": "10:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p11",
+                    "startTime": "10:00",
+                    "endTime": "10:15",
+                    "title": "TOP OF THE HOUR ENG NEWS",
+                    "host": "Nancy Atim",
+                    "description": "1st English news bullet inn with both local  national and international content.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p12",
+                    "startTime": "10:15",
+                    "endTime": "11:00",
+                    "title": "QUOTE OF THE DAY",
+                    "host": "Okello Innocent",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p13",
+                    "startTime": "11:00",
+                    "endTime": "11:30",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p14",
+                    "startTime": "11:30",
+                    "endTime": "12:00",
+                    "title": "Strange But true Facts",
+                    "host": "Okello Innocent",
+                    "description": "Present shares the most interesting strange facts ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p15",
+                    "startTime": "12:00",
+                    "endTime": "12:15",
+                    "title": "Boxing Ring",
+                    "host": "Okello Innocent",
+                    "description": "Callers are given two songs to choose which one plays next",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p16",
+                    "startTime": "12:15",
+                    "endTime": "12:30",
+                    "title": "Brainteaser",
+                    "host": "Okello Innocent",
+                    "description": "Presenter asks a tricky question and listeners give the Answers",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p17",
+                    "startTime": "12:30",
+                    "endTime": "12:45",
+                    "title": "Triple Play",
+                    "host": "Okello Innocent",
+                    "description": "A Lister Calls in and requests for 3 Songs.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p18",
+                    "startTime": "12:45",
+                    "endTime": "13:00",
+                    "title": "Job Slots",
+                    "host": "Okello Innocent",
+                    "description": "Presenter runs mentions for Job Oprotunities. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p19",
+                    "startTime": "13:00",
+                    "endTime": "13:15",
+                    "title": "News In Luo",
+                    "host": "Oyugi Frank ",
+                    "description": "News in the local language ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p20",
+                    "startTime": "13:15",
+                    "endTime": "14:00",
+                    "title": "Announcements",
+                    "host": "A. Patricia",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                }
+            ]
+        }
+    ]
 }
