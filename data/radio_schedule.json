@@ -1490,138 +1490,6 @@
             "day": "Wednesday",
             "programs": [
                 {
-                    "id": "p89",
-                    "startTime": "14:00",
-                    "endTime": "16:00",
-                    "title": "Sports Bench",
-                    "host": "Lady J and Brian",
-                    "description": "Lates information on all sports news.",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p90",
-                    "startTime": "16:00",
-                    "endTime": "16:15",
-                    "title": "Evening Flight (Rolecall)",
-                    "host": "Oscar Akwar Atat",
-                    "description": "Checkups on All listeners  ",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p91",
-                    "startTime": "16:15",
-                    "endTime": "16:30",
-                    "title": "Quote of the hour",
-                    "host": "Oscar Akwar Atat",
-                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p92",
-                    "startTime": "16:30",
-                    "endTime": "16:45",
-                    "title": "Cuk Atedero",
-                    "host": "Oscar Akwar Atat",
-                    "description": "Liteners call in and sale or buy live on air",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p93",
-                    "startTime": "16:45",
-                    "endTime": "17:00",
-                    "title": "Weather Update",
-                    "host": "Oscar Akwar Atat",
-                    "description": "Weather is forcust discused at lenth",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p94",
-                    "startTime": "17:00",
-                    "endTime": "18:00",
-                    "title": "COMMUNITY DIALOGUE",
-                    "host": "Oscar Akwar Atat",
-                    "description": "Engaging members of the community  on some topic issues affecting them.",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p95",
-                    "startTime": "18:00",
-                    "endTime": "19:00",
-                    "title": "Hot 6 at 6",
-                    "host": "Oscar Akwar Atat",
-                    "description": "Afrobeat Music is played with 6 selected",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p96",
-                    "startTime": "19:00",
-                    "endTime": "19:30",
-                    "title": "Perspectives Documentary",
-                    "host": "Ogwal Jasper",
-                    "description": "Slot allocated for feature stories , pre-recorded programs  and documentaries",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p97",
-                    "startTime": "19:30",
-                    "endTime": "20:00",
-                    "title": "HOT 7 @ 7 LOCAL HITS",
-                    "host": "Ogwal Jasper",
-                    "description": "Count down of hot local collection with brief profile of their artists.",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p98",
-                    "startTime": "20:00",
-                    "endTime": "21:00",
-                    "title": "Talkshow",
-                    "host": "Ogwal Jasper",
-                    "description": "To paid up by NGOs, CBOs,  Local & Central Governments and any willing partner",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p99",
-                    "startTime": "21:00",
-                    "endTime": "21:30",
-                    "title": "9PM Prime Time News",
-                    "host": "Doreen Achipa And Frank Oyugi",
-                    "description": "4th & the biggest Broadcast of local, national, international, business, market information.",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p100",
-                    "startTime": "21:30",
-                    "endTime": "22:00",
-                    "title": "Announcements",
-                    "host": "Edmond Ongwen",
-                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p101",
-                    "startTime": "22:00",
-                    "endTime": "00:00",
-                    "title": "Lek Tuku",
-                    "host": "Moto Ronald",
-                    "description": "The latest on local Sports ",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                },
-                {
-                    "id": "p102",
-                    "startTime": "00:00",
-                    "endTime": "03:00",
-                    "title": "Hakuna Kulala Show",
-                    "host": "Oc Ojok",
-                    "description": "Playing Local music and keeping the night alive with the latest updates",
-                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
-                }
-            ]
-        },
-        {
-            "id": "3",
-            "day": "Wednesday ",
-            "programs": [
-                {
                     "id": "p69",
                     "startTime": "03:00",
                     "endTime": "03:30",
@@ -1799,6 +1667,132 @@
                     "title": "Announcements",
                     "host": "A. Patricia",
                     "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p89",
+                    "startTime": "14:00",
+                    "endTime": "16:00",
+                    "title": "Sports Bench",
+                    "host": "Lady J and Brian",
+                    "description": "Lates information on all sports news.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p90",
+                    "startTime": "16:00",
+                    "endTime": "16:15",
+                    "title": "Evening Flight (Rolecall)",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Checkups on All listeners  ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p91",
+                    "startTime": "16:15",
+                    "endTime": "16:30",
+                    "title": "Quote of the hour",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Mention of the most inspiring words, strange but true, forex rates, press & weather update ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p92",
+                    "startTime": "16:30",
+                    "endTime": "16:45",
+                    "title": "Cuk Atedero",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Liteners call in and sale or buy live on air",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p93",
+                    "startTime": "16:45",
+                    "endTime": "17:00",
+                    "title": "Weather Update",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Weather is forcust discused at lenth",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p94",
+                    "startTime": "17:00",
+                    "endTime": "18:00",
+                    "title": "COMMUNITY DIALOGUE",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Engaging members of the community  on some topic issues affecting them.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p95",
+                    "startTime": "18:00",
+                    "endTime": "19:00",
+                    "title": "Hot 6 at 6",
+                    "host": "Oscar Akwar Atat",
+                    "description": "Afrobeat Music is played with 6 selected",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p96",
+                    "startTime": "19:00",
+                    "endTime": "19:30",
+                    "title": "Perspectives Documentary",
+                    "host": "Ogwal Jasper",
+                    "description": "Slot allocated for feature stories , pre-recorded programs  and documentaries",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p97",
+                    "startTime": "19:30",
+                    "endTime": "20:00",
+                    "title": "HOT 7 @ 7 LOCAL HITS",
+                    "host": "Ogwal Jasper",
+                    "description": "Count down of hot local collection with brief profile of their artists.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p98",
+                    "startTime": "20:00",
+                    "endTime": "21:00",
+                    "title": "Talkshow",
+                    "host": "Ogwal Jasper",
+                    "description": "To paid up by NGOs, CBOs,  Local & Central Governments and any willing partner",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p99",
+                    "startTime": "21:00",
+                    "endTime": "21:30",
+                    "title": "9PM Prime Time News",
+                    "host": "Doreen Achipa And Frank Oyugi",
+                    "description": "4th & the biggest Broadcast of local, national, international, business, market information.",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p100",
+                    "startTime": "21:30",
+                    "endTime": "22:00",
+                    "title": "Announcements",
+                    "host": "Edmond Ongwen",
+                    "description": "Annoncements run as listners try to communicate with distant relatives and friends. ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p101",
+                    "startTime": "22:00",
+                    "endTime": "00:00",
+                    "title": "Lek Tuku",
+                    "host": "Moto Ronald",
+                    "description": "The latest on local Sports ",
+                    "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
+                },
+                {
+                    "id": "p102",
+                    "startTime": "00:00",
+                    "endTime": "03:00",
+                    "title": "Hakuna Kulala Show",
+                    "host": "Oc Ojok",
+                    "description": "Playing Local music and keeping the night alive with the latest updates",
                     "imageUrl": "https://cdn.pixabay.com/photo/2018/08/27/10/11/radio-cassette-3634616_1280.png"
                 }
             ]
