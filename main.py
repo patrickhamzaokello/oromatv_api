@@ -56,9 +56,9 @@ app_data = {
     "app": {
         "name": "Oroma TV & QFM Radio",
         "greetings": {
-            "morning": "Good Morning",
-            "afternoon": "Good Afternoon",
-            "evening": "Good Evening"
+            "morning": "Ibutu Aber 👀",
+            "afternoon": "Itye 😊",
+            "evening": "Irio aber 😁"
         }
     },
     "streams": {
